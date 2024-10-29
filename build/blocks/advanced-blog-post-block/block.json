@@ -1,0 +1,22 @@
+{
+  "apiVersion": 2,
+  "name": "bwdabpb/advanced-blog-post-block",
+  "version": "1.0.3",
+  "title": "Advanced Blog Post Block",
+  "category": "bwdabpb-advanced-post-blocks",
+  "description": "Craft an eye-catching and dynamic visualization to elevate the appeal of your blog",
+  "example": [
+    {
+      "attributes": {
+        "style": "style-1"
+      }
+    }
+  ],
+  "supports": {
+    "customClassName": false
+  },
+  "textdomain": "advanced-blog-post-block",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}
